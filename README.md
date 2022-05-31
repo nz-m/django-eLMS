@@ -1,5 +1,8 @@
 
 # E-Learning Management System
+
+![](https://img.shields.io/badge/python-3.10-red) ![](https://img.shields.io/badge/django-v4.0.4-blue) ![](https://img.shields.io/badge/bootstrap-v5.2.0-success)   ![](https://img.shields.io/github/license/nz-m/django-eLMS)
+
 ### Project Overview
 
 Currently implemented features:
