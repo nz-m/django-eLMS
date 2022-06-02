@@ -26,7 +26,7 @@ MySQL Database
 
 
 ## Installation
-Clone the repository into local machine
+Clone the repository into your local machine
 
 ```sh
 git clone https://github.com/nz-m/django-eLMS.git
