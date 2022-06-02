@@ -26,7 +26,7 @@ MySQL Database
 
 
 ## Installation
-To run the project on your local machine, make sure you have python with pip installed. Then, run the following command to clone the repository:
+Clone the repository into local machine
 
 ```sh
 git clone https://github.com/nz-m/django-eLMS.git
@@ -44,7 +44,7 @@ virtualenv env
 ```sh
 env\Scripts\activate
 ```
-while the virtual environment is active, install the dependencies
+Install the dependencies
 
 ```sh
 pip install -r requirements.txt
@@ -83,12 +83,12 @@ python manage.py makemigrations
 ```sh
 python manage.py migrate
 ```
-Create a superuser:
+Create a superuser
 
 ```sh
 python manage.py createsuperuser
 ```
-Finally, run the project using
+Finally, run the project
 
 ```sh
 python manage.py runserver
